@@ -1,0 +1,2145 @@
+/* Big screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    main{
+    /* margin-top: 150px; */
+}
+/* Header  */
+.header-area {
+    padding-bottom: 25px;
+}
+
+.progress-bar {
+    top: 151px;
+}
+ul.dropdown_link {
+    width: max-content;
+}
+
+.menu_cont {
+    top: 120px;
+}
+.mega_menu ul.dropdown_link li{
+margin-left: 30px;
+}
+.src_bar {
+    max-width: 530px;
+}
+/* Header End */
+
+
+/* Home Page  */
+
+.hero_item {
+    height: 600px;
+}
+.hero_cont {
+    padding: 0 20px;
+}
+.hero_slider_btn ul {
+    padding: 0 20px;
+    bottom: 40px;
+}
+.mbu_cont img {
+    max-width: 426px;
+}
+
+/* Home Page  */
+
+
+/* Industries Page  */
+.social_blk {
+    width: 100%;
+}
+.arw_btn .owl-next {
+    right: 1%;
+}
+
+.arw_btn .owl-prev {
+    left: auto;
+    right: 8%;
+}
+
+.owl-nav {
+    top: auto;
+}
+/* Industries Page End */
+
+/*Consulting page Start */
+.aprc_right {
+    width: 100%;
+}
+/*Consulting page End */
+
+/*Insights page Start */
+.mtv_img img {
+    width: 100%;
+}
+/*Insights page End */
+
+/*contact page Start */
+.contact_info .p_list{
+    max-width: 290px;
+}
+/*contact page End */
+
+/*contact page Start */
+/* page End */
+
+
+
+
+
+
+
+
+
+
+
+/* Footer */
+ul.f_link li a {
+    margin-right: 45px;
+}
+
+ul.social_link li {
+    margin-right: 15px;
+}
+.footer_bottom ul li {
+    margin-right: 30px;
+}
+/* Footer End */
+
+}
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+/* Header  */
+.thm_btn{
+    font-size: 18px;
+}
+ul.dropdown_link {
+    width: max-content;
+}
+
+.mega_menu ul.dropdown_link li {
+    margin-left: 25px;
+}
+
+.src_bar {
+    max-width: 354px;
+    margin-bottom: -5px;
+}
+/* Header End */
+
+/* Home Page  */
+.sec_title h1 {
+    font-size: 45px;
+}
+.hero_item {
+    height: 491px;
+}
+.hero_cont {
+    padding: 0 20px;
+}
+
+.hero_cont a {
+    margin-bottom: 50px;
+}
+.hero_slider_btn ul {
+    padding: 0 20px;
+    bottom: 40px;
+}
+.mbu_cont img {
+    max-width: 315px;
+}
+
+.mbu_cont h2 {
+    font-size: 22px;
+}
+
+section.more_about_us:before {
+    height: 200px;
+}
+.spt_item ul li {
+    padding-left: 15px;
+}
+
+.spt_item ul li h2 {
+    font-size: 30px;
+}
+.blc_txt {
+    padding: 20px;
+}
+.supporting_top h1 {
+    font-size: 40px;
+    max-width: 550px;
+}
+
+.career_cont h1 {
+    font-size: 40px;
+}
+
+.career_cont p {
+    font-size: 18px;
+    max-width: 542px;
+}
+
+section.career {
+    padding: 80px 0;
+}
+a.swiper-slide.swiper-slide-prev {
+    transform: translate3d(30px, 22px, -104.338px) rotateX(0deg) rotateY(20.8677deg) scale(.9) scaleY(.9) !important;
+}
+a.swiper-slide.swiper-slide-next {
+    transform: translate3d(-28px, 23px, -104.503px) rotateX(0deg) rotateY(-20.9006deg) scale(.9) scaleY(.9) !important;
+}
+/* Home Page End */
+
+/* Industries Page  */
+.social_blk {
+    width: 100%;
+}
+.arw_btn .owl-next {
+    right: 0;
+    transform: translateX(-64%);
+}
+
+.arw_btn .owl-prev {
+    left: auto;
+    right: 11%;
+}
+
+.owl-nav {
+    top: auto;
+    bottom: 0;
+    width: 100%;
+}
+.extra_link ul li a{
+    font-size: 16px;
+}
+
+.extra_link ul li {padding-right: 15px;margin-right: 15px;}
+.border_card h2{
+    font-size: 28px;
+}
+
+.think_slider .border_card h2 {
+    font-size: 22px;
+}
+
+.think_slider .border_card h6 {
+    font-size: 15px;
+}
+.industry_area .border_card:hover:before{
+    width: 104%;
+}
+.cs_cont h3{
+    font-size: 26px;
+}
+.cs_cont p{
+    font-size: 16px;
+}
+section.what_think {
+    margin-top: 100px;
+}
+
+.sec_title {
+    margin-bottom: 30px;
+}
+
+section.Consulting_blog.pt-5 {
+    padding-top: 20px !important;
+}
+section.what_think {
+    margin-bottom: 100px;
+}
+/* Industries Page End */
+
+/*Consulting page Start */
+.aprc_right {
+    width: 100%;
+}
+
+.aprc_left p {
+    font-size: 18px;
+}
+.cs_solid_slider{
+    margin-bottom: 80px;
+}
+/*Consulting page End */
+
+
+
+/*article page Start */
+.artical_cover{
+    height: 500px;
+}
+
+/*articles page End */
+
+/*Consulting-Case-Studies page Start */
+.cp_right img {
+    width: 100%;
+}
+/*Consulting-Case-Studies page End */
+
+/*contact page Start */
+.contact_info .p_list{
+    max-width: 225px;
+}
+.contact_info ul li a p{
+    font-size: 20px;
+}
+
+.contact_info ul li a p span {
+    font-size: 16px;
+}
+/*contact page End */
+
+/*Terms page Start */
+.Terms_list h1 {
+    font-size: 30px;
+}
+
+.Terms_list p {
+    font-size: 16px;
+}
+
+.Terms_list li {
+    margin-bottom: 40px;
+}
+/*Terms page End */
+
+
+/*Career page Start */
+
+.cv_apply_img_box {height: 400px;}
+
+.cv_apply_content {max-width: 400px;margin: auto;}
+/*Career page End */
+
+
+
+/* Footer   */
+.newsletter h3 {
+    flex: 0 0 100%;
+    margin-bottom: 30px;
+}
+
+.email_box {
+    margin-left: 0;
+}
+.f_logo a {
+    display: block;
+    width: 179px;
+}
+
+.f_logo img {
+    width: 100%;
+    display: block;
+}
+
+ul.f_link {
+    margin-bottom: 30px;
+}
+
+ul.social_link {
+    margin: auto;
+}
+
+.footer_bottom {
+    justify-content: center;
+}
+
+p.c_right {
+    margin-top: 20px;
+}
+/* Footer End  */
+}
+
+ 
+/* Tablet screen :768px. ============================================================*/
+@media (min-width: 768px) and (max-width: 991px) {
+    .progress-bar{top: 109px;left: 0;}
+/* Header  */
+.logo-area a img {
+    width: 150px;
+}
+.header-area {
+    padding: 20px;
+}
+ul.dropdown_link {
+    width: max-content;
+}
+.menu_cont {
+    top: 89px;
+}
+
+.mega_menu ul.dropdown_link li a:after {
+    bottom: -20px;
+}
+.mega_menu ul.dropdown_link li {
+    margin-left: 20px;
+}
+
+.mega_menu_cont ul li {
+    flex: 0 0 45%;
+}
+
+.src_bar {
+    max-width: 354px;
+    margin-bottom: -5px;
+}
+.mega_menu {
+    margin-left: 20px;
+}
+/* Header End */
+
+/* Home Page  */
+.thm_btn {
+    font-size: 18px;
+    padding-right: 20px;
+    line-height: 38px;
+}
+
+.thm_btn:before {
+    width: 38px;
+    height: 38px;
+    left: 4px;
+}
+
+a.thm_btn.sm:before {
+    left: 0;
+}
+
+.thm_btn i {
+    line-height: 32px;
+}
+
+a.thm_btn.sm i {
+    line-height: 35px;
+}
+.sec_title h1 {
+    font-size: 40px;
+}
+
+.sec_title p {
+    font-size: 18px;
+}
+.hero_item {
+    height: 491px;
+}
+.hero_cont {
+    padding: 0 20px;
+}
+.hero_cont h1 {
+    font-size: 30px;
+    max-width: 475px;
+}
+.hero_cont a {
+    margin-bottom: 50px;
+}
+.hero_slider_btn ul {
+    padding: 0 20px;
+    bottom: 40px;
+}
+section.ceo_area .row {
+    flex-direction: column-reverse;
+}
+
+section.ceo_area {padding-bottom: 50px;}
+
+.ceo_img {
+    width: max-content;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.ceo_cont {
+    width: max-content;
+    margin: auto;
+}
+.wd_blk {
+    height: 300px;
+}
+
+.wd_blk i img {
+    object-fit: cover;
+}
+
+.mbu_cont img {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    transform: translateX(-50%);
+}
+
+.mbu_cont {overflow: hidden;}
+
+.mbu_cont h2 {
+    margin-bottom: 0;
+    padding: 35px 0;
+}
+.career_cont h1 {
+    font-size: 40px;
+}
+
+.career_cont p {
+    font-size: 18px;
+    max-width: 542px;
+}
+
+section.career {
+    padding: 80px 0;
+}
+.flipster__button--prev {
+    left: 16%;
+    margin-top: 15px;
+}
+
+.flipster__button--next {
+    right: 22%;
+    transform: translateX(211%) !important;
+}
+
+.cs_btn a {
+    margin-top: 30px;
+}
+
+section.case_studi div#pills-tabContent {
+    transform: unset;
+}
+/* Home Page End */
+
+/* Industries Page  */
+.social_blk {
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 10px;
+    height: 279px;
+    padding-top: 60px;
+}
+
+.social_blk a.thm_btn {
+    font-size: 17px;
+}
+.arw_btn .owl-next {
+    right: 0;
+}
+
+.arw_btn .owl-prev {
+    left: auto;
+    right: 10%;
+}
+
+.owl-nav {
+    top: auto;
+    bottom: 0;
+}
+.extra_link ul li a{
+    font-size: 16px;
+}
+
+.extra_link ul li {
+    margin-bottom: 15px;
+}
+
+.extra_link {display: none;}
+
+section.extra_link.Consulting_link.sticky ul li a:before {bottom: 0px;}
+.border_card h2{
+    font-size: 28px;
+}
+
+.think_slider .border_card h2 {
+    font-size: 22px;
+}
+
+.think_slider .border_card h6 {
+    font-size: 15px;
+}
+.industry_area .border_card:hover:before{
+    width: 104%;
+}
+.cs_cont h3{
+    font-size: 26px;
+}
+.cs_cont p{
+    font-size: 16px;
+}
+section.what_think {
+    margin-top: 100px;
+}
+
+.sec_title {
+    margin-bottom: 30px;
+}
+
+.help_clients .sec_title {
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.help_clients {
+    margin-bottom: 20px;
+}
+
+section.what_think {
+    margin-bottom: 100px;
+}
+.social_blk i svg {
+    width: 100px;
+}
+
+.social_blk h2 {
+    font-size: 30px;
+}
+
+.social_blk p {
+    height: 68px;
+    font-size: 14px;
+}
+.contact_blk label {
+    font-size: 20px;
+}
+/* Industries Page End */
+
+
+/*Consulting page Start */
+.aprc_right {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+}
+
+.aprc_left {
+    max-width: 460px;
+    margin: auto;
+}
+
+.aprc_left p {
+    font-size: 18px;
+}
+.cs_solid_slider{
+    margin-bottom: 80px;
+}
+section.approach .row {
+    flex-direction: column-reverse;
+}
+
+.aprc_left h1 {
+    font-size: 40px;
+}
+.supporting_top h1{
+    font-size: 36px;
+    max-width: 500px;
+}
+.spt_item ul li h2{
+    font-size: 28px;
+}
+/*Consulting page End */
+
+
+
+/*Insights page Start */
+.mtv_img img {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+}
+.Metaverse-Article .row{
+    flex-direction: column-reverse;
+}
+.mtv_img{
+    text-align: center;
+}
+.mtv_blk.mtv_left {
+    margin: auto;
+    margin-top: 30px;
+    padding: 0 15px;
+}
+/*Insights page End */
+
+/*article page Start */
+.artical_cover{
+    height: 500px;
+}
+.atc_link {
+    position: absolute;
+    left: 10px;
+    top: 150px;
+    max-width: 300px;
+}
+.artical_cont p{
+    font-size: 17px;
+    font-weight: 400;
+}
+.atc_author {
+    display: flex;
+    flex-direction: column;
+}
+ul.atc_link_list li {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+ul.atc_btn_link li a {
+    font-size: 16px;
+}
+/*articles page End */
+
+
+/*Consulting-Case-Studies page Start */
+.Consulting_Projects .row{
+    flex-direction: column-reverse;
+    margin-bottom: 0;
+}
+.cp_right {
+    max-width: 500px;
+    margin:  0 auto 30px;
+}
+
+.cp_left {
+    max-width: 480px;
+    margin: auto;
+}
+
+.cp_left h1 {
+    width: 100%;
+    font-size: 36px;
+}
+
+.cp_left p {
+    font-size: 18px;
+    font-weight: 400;
+}
+/*Consulting-Case-Studies page End */
+
+
+/*Case-Study-Individual page Start */
+.mh_left h1{
+    width: 100%;
+    font-size: 36px;
+}
+
+.mh_left p {
+    font-size: 18px;
+    font-weight: 400;
+}
+section.meets_human .row{
+    flex-direction: column-reverse;
+}
+.mh_right {
+    max-width: 500px;
+    margin: auto;
+}
+
+.mh_left {
+    max-width: 480px;
+    margin: auto;
+}
+
+section.meets_human {
+    margin-bottom: 40px;
+}
+.valuable_cont h1 {
+    font-size: 35px;
+}
+
+.valuable_cont p {
+    font-size: 17px;
+    font-weight: 400;
+}
+/*Case-Study-Individual page End */
+
+/*career page Start */
+section.career_area .row:first-child{
+    flex-direction: column-reverse;
+}
+
+section.career_area .row {
+    margin-bottom: 50px;
+}
+
+.row.crr_cont_list {
+    margin-top: 0;
+}
+
+.row.crr_re {
+    flex-direction: column-reverse;
+}
+section.career_area .row:nth-child(2) .crr_cont{
+    padding: 0;
+}
+
+.row.crr_cont_list .crr_cont {
+    margin: 0;
+}
+.crr_img {
+    margin-bottom: 20px;
+}
+
+.cv_apply_img_box {height: 400px;}
+
+.cv_apply_content {max-width: 285px;margin: auto;}
+
+/*career page End */
+
+/*About page Start */
+.Guiding_area h1{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.Guiding_tabs{
+    width: 100%;
+    max-width: 100%;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column-reverse;
+}
+.Guiding_icon {
+    margin-bottom: 50px;
+}
+
+.Guiding_icon ul li button {
+    width: 150px;
+    height: 150px;
+}
+
+.Guiding_icon {
+    width: 375px;
+    height: 374px;
+}
+
+.Guiding_icon ul li:nth-child(1) button {
+    left: 50px;
+}
+
+.Guiding_icon ul li:nth-child(2) button {
+    right: 50px;
+}
+
+.Guiding_icon ul li:nth-child(6) button {
+    right: 50px;
+}
+
+.Guiding_icon ul li:nth-child(5) button {
+    left: 50px;
+}
+.Guiding_icon ul li:nth-child(3) button{
+    left: -8px;
+}
+.Guiding_icon ul li:nth-child(4) button{
+    right: -6px;
+}
+.abd_img {
+    margin-bottom: 30px;
+}
+/*About page End */
+
+/*Leadership page Start */
+.hl_img i {
+    width: 300px;
+    height: 300px;
+}
+
+.hl_cont h1 {
+    font-size: 40px;
+}
+
+.hl_cont h3 {
+    font-size: 20px;
+}
+
+.hl_cont p {
+    font-size: 15px;
+}
+
+.Leadership_about_cont h1 {
+    font-size: 32px;
+}
+
+.Leadership_about_cont p {
+    font-size: 16px;
+}
+
+.Leadership_about_cont h4 {
+    font-size: 20px;
+}
+/*Leadership page End */
+
+/*contact page Start */
+.contact_info .p_list{
+    max-width: 225px;
+}
+.contact_info ul li a p{
+    font-size: 18px;
+}
+
+.contact_info ul li a p span {
+    font-size: 14px;
+}
+.contact_form_title h1 {
+    font-size: 40px;
+}
+
+.contact_form_title p {
+    font-size: 17px;
+}
+
+.sgl_contact label {
+    font-size: 17px;
+}
+
+.containers {
+    font-size: 14px !important;
+    margin-bottom: 0;
+    line-height: 32px;
+}
+
+.sgl_contact {
+    width: 100%;
+}
+.contact_info ul li a i{
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+}
+
+/*contact page End */
+
+
+/*Search page Start */
+.search_box {
+    height: 65px;
+}
+
+.search_box input {
+    font-size: 20px;
+}
+
+.src_list_item h2 {
+    font-size: 24px;
+}
+
+.src_list_item p {
+    font-size: 15px;
+    margin: 10px 0;
+}
+
+.src_list_item span {
+    font-size: 15px;
+}
+
+.src_results h5 {
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+
+.src_list ul li {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+/*Search page End */
+
+/* Location page Start */
+.loc_collaps button {
+    font-size: 28px;
+    padding-bottom: 15px;
+}
+
+.loc_contant h3 {
+    font-size: 23px;
+}
+
+.loc_contant p {
+    font-size: 15px;
+}
+
+.loc_contant a {
+    font-size: 16px;
+}
+/* Location page End */
+
+
+/*Terms page Start */
+.Terms_list h1 {
+    font-size: 30px;
+}
+
+.Terms_list p {
+    font-size: 16px;
+}
+
+.Terms_list li {
+    margin-bottom: 40px;
+}
+/*Terms page End */
+
+
+
+
+
+
+
+
+/* Footer   */
+.newsletter h3 {
+    flex: 0 0 100%;
+    margin-bottom: 30px;
+    font-size: 25px;
+}
+
+.addras p {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.email_box {
+    margin-left: 0;
+}
+.f_logo a {
+    display: block;
+    width: 179px;
+}
+
+.f_logo img {
+    width: 100%;
+    display: block;
+}
+.footer_cont {
+    margin: 0;
+    margin-top: 25px;
+}
+
+.footer_cont p {
+    font-weight: 400;
+}
+ul.f_link {
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+ul.social_link {
+    margin: auto;
+}
+
+.footer_bottom {
+    justify-content: center;
+    text-align: center;
+}
+
+.footer_bottom ul li {
+    margin-right: 20px;
+}
+
+.footer_bottom ul li a {
+    font-size: 14px;
+}
+
+p.c_right {
+    margin-top: 20px;
+    font-size: 14px;
+}
+/* Footer End  */
+}
+
+ 
+/* small screen :320px. =============================================================*/
+@media (max-width: 767px) {
+
+    main{
+    }
+/* Header  */
+.logo-area a img {
+    width: 100px;
+    object-fit: cover;
+}
+.header-area {
+    padding: 20px;
+}
+.progress-bar {
+    top: 86px;
+    left: 0;
+}
+.header-area .row.align-items-end {
+    align-items: center !important;
+}
+
+.menu_cont {
+    top: 105px;
+}
+
+.mega_menu ul.dropdown_link li a:after {
+    bottom: -20px;
+}
+
+.mega_menu_cont ul li {
+    flex: 0 0 45%;
+}
+
+.src_bar {
+    max-width: 354px;
+    margin-bottom: -5px;
+}
+.mega_menu {display: none;}
+/* Header End */
+
+/* Home Page  */
+.thm_btn {
+    font-size: 16px;
+    padding-right: 20px;
+    line-height: 38px;
+}
+
+.thm_btn:before {
+    width: 38px;
+    height: 38px;
+    left: 4px;
+}
+
+a.thm_btn.sm:before {
+    left: 0;
+}
+
+.thm_btn i {
+    line-height: 32px;
+}
+.sec_title h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.sec_title {
+    margin-bottom: 30px;
+}
+
+section.case_studi_item .row {
+    margin-top: 0;
+}
+
+.help_clients {
+    margin-bottom: 0px;
+}
+
+.sec_title.flex a {
+    width: max-content;
+    margin-left: auto;
+}
+
+.sec_title.flex {
+    flex-wrap: wrap;
+}
+
+.sec_title p {
+    font-size: 16px;
+}
+
+p {
+    font-size: 15px !important;
+}
+.hero_item {
+    height: 370px;
+}
+.hero_cont {
+    padding: 0 20px;
+}
+.hero_cont h1 {
+    font-size: 20px !important;
+    max-width: 355px;
+    margin-bottom: 20px;
+}
+.hero_cont a {
+    margin-bottom: 100px;
+}
+.hero_slider_btn ul {
+    padding: 0 20px;
+    bottom: 2px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.hero_slider_btn ul li {
+    flex:  0 0 50%;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.hero_slider_btn ul li a {
+    font-size: 16px;
+}
+section.ceo_area .row {
+    flex-direction: column-reverse;
+}
+
+section.ceo_area {padding-bottom: 50px;}
+
+.ceo_img {
+    width: max-content;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.ceo_img img {
+    max-width: 300px;
+}
+
+img#b-logo {
+    max-width: 300px;
+}
+
+.ceo_cont {
+    margin: auto;
+}
+
+.ceo_cont h2 {
+    font-size: 26px;
+    margin: 30px 0;
+}
+
+.ceo_cont p {
+    font-size: 16px;
+}
+.cs_item.centr.flipster__item.flipster__item--current {
+    margin-right: 0 !important;
+    max-width: 300px;
+}
+
+.cs_cont h3 {
+    font-size: 20px;
+}
+
+.cs_cont p {
+    font-size: 15px;
+}
+.cs_btn_grp {
+    width: 100%;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.cs_btn_grp ul li {
+    margin-bottom: 20px;
+}
+
+.cs_btn_grp ul {
+    justify-content: center;
+}
+.cs_item > i {
+    max-width: 100%;
+    height: 200px;
+}
+.cs_btn_grp button{
+    font-size: 16px;
+}
+.wd_btn{
+    transform: unset;
+    margin-bottom: 30px;
+}
+.wd_blk {
+    height: 300px;
+}
+
+.wd_blk i img {
+    object-fit: cover;
+}
+
+.mbu_cont img {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 671px;
+    transform: translate(-50%, -50%);
+}
+
+.mbu_cont {overflow: hidden;flex-wrap: wrap;justify-content: center;}
+
+.mbu_cont a {
+    margin-bottom: 20px;
+}
+
+.mbu_cont h2 {
+    margin-bottom: 8px;
+    padding: 22px 0 0;
+    text-align: center;
+    font-size: 22px;
+}
+.career_cont h1 {
+    font-size: 32px;
+}
+
+.career_cont p {
+    font-size: 16px;
+    max-width: 542px;
+}
+
+section.career {
+    padding: 80px 0;
+    background-position: center;
+}
+.cs_slider .my-flipster {
+    padding: 25px 0;
+    margin-bottom: 120px;
+}
+
+section.case_studi div#pills-tabContent {
+    transform: unset;
+}
+
+button.flipster__button {
+    top: auto;
+    bottom: 35px;
+    width: 40px;
+    height: 40px;
+    background-size: cover;
+}
+
+.flipster__button--prev {
+    left: 26%;
+}
+
+.flipster__button--next {
+    right: 14%;
+}
+.blc_txt{
+    padding: 20px;
+}
+
+.blog_card {
+    max-width: 320px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+h1 {
+    font-size: 30px !important;
+}
+
+.supporting_top h1 {
+    font-size: 26px !important;
+}
+
+.spt_item ul li h2 {
+    font-size: 26px;
+}
+.spt_item ul li {
+    height: 580px;
+}
+
+.owl-nav i {
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+}
+.exp_btn {
+    margin-bottom: 30px;
+    margin-top: -20px;
+}
+/* Home Page End */
+
+/* Home Page  */
+.social_blk {
+    width: 100%;
+    max-width: 300px;
+    margin: 50px auto;
+    padding-top: 64px;
+    height: 270px;
+}
+/* Home Page End */
+ 
+
+/*Industries page Start */
+.cover_cont h2 {
+    font-size: 24px;
+    line-height: 38px;
+    padding-left: 15px;
+}
+
+.cover_cont p {
+    font-size: 18px;
+    max-width: 350px;
+}
+
+.cover_area {
+    height: 320px;
+}
+
+.extra_link ul li a {
+    font-size: 14px;
+}
+
+.extra_link ul li {
+    padding-right: 10px;
+    margin-right: 10px;
+    margin-bottom: 12px;
+    line-height: 1.2;
+}
+
+section.extra_link ul {
+    text-align: center;
+}
+
+.border_card h2 {
+    font-size: 24px;
+}
+.arw_btn .owl-next {
+    right: 20%;
+    transform: translateX(-80%);
+}
+
+.arw_btn .owl-prev {
+    left: 45%;
+    transform: translateX(-55%);
+}
+
+.owl-nav {
+    top: auto;
+    bottom: 0;
+}
+.border_card:hover:before{
+    width: 108%;
+}
+
+section.Consulting_blog .border_card:hover:before {
+    width: 104% !important;
+height: 104%;}
+
+.think_slider .border_card:hover:before {
+    height: 103%;
+    width: 103%;
+}
+#cs_item{
+    max-width: 300px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+section.case_studi2 {
+    margin-bottom: 41px;
+}
+.think_slider .border_card h2{
+    font-size: 20px;
+}
+.think_slider .border_card a{
+    font-size: 15px;
+}
+section.what_think {
+    margin-bottom: 88px;
+}
+.think_slider .border_card{margin: auto;margin-bottom: 30px;}
+.contact_box {
+    padding: 20px;
+}
+
+.contact_blk label {
+    font-size: 16px;
+    margin-bottom: 11px;
+}
+
+.contact_blk .nice-select {
+    font-size: 16px;
+    margin-bottom: 41px;
+    height: 60px;
+}
+
+.contact_blk input {
+    font-size: 16px;
+}
+
+.contact_blk input {
+    padding: 20px 16px 18px 20px;
+}
+
+.contact_blk {
+    margin-bottom: 30px;
+}
+
+.SelectContact ul > li {font-size: 15px;padding-left: 20px;}
+
+.SelectContact ul li > ul {min-width: 150px;}
+
+i#SelectContact_arrow {font-size: 20px;}
+.contact_box h4 {
+    font-size: 18px;
+    padding-top: 10px;
+}
+.social_blk i svg {
+    width: 100px;
+}
+
+.social_blk h2 {
+    font-size: 30px;
+}
+
+.social_blk p {
+    height: 68px;
+    font-size: 14px;
+}
+section.social_area .sec_title h1 {
+    margin-bottom: 50px;
+}
+
+section.social_area {
+    margin-bottom: 10px;
+}
+/*Industries page End */
+
+
+/*Consulting page Start */
+.aprc_right {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+}
+
+.aprc_right #cs_item .cs_cont {padding: 20px;padding-top: 0;}
+
+.aprc_right .aprc_right #cs_item .cs_cont {padding: 10px;}
+
+.Consulting_link {
+    margin-bottom: 40px;
+}
+
+.extra_link {display: none;}
+.aprc_right #cs_item > i{
+    max-height: 220px;
+}
+
+.aprc_right #cs_item i:after {
+    top: 212px;
+    border-width: 12px;
+    width: 26px;
+}
+.cs_solid_slider{
+    margin-bottom: 80px;
+}
+section.approach .row {
+    flex-direction: column-reverse;
+}
+
+.aprc_left h1 {
+    font-size: 40px;
+}
+
+.approach {
+    margin-bottom: 50px;
+}
+.supporting_top h1{
+    font-size: 36px;
+    max-width: 500px;
+}
+.spt_item ul li h2{
+    font-size: 28px;
+}
+/*Consulting page End */
+
+
+/*Insights page Start */
+.mtv_img img {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+}
+.Metaverse-Article .row{
+    flex-direction: column-reverse;
+}
+.mtv_img{
+    text-align: center;
+}
+.mtv_blk.mtv_left {
+    margin: auto;
+    margin-top: 30px;
+    padding: 0 15px;
+}
+.mtv_blk.mtv_left h2{
+    font-size: 24px;
+}
+.mtv_blk h2{
+    font-size: 20px;
+}
+section.social_area .sec_title h1 {
+    text-align: center;
+}
+.Overview_cont p{
+    font-weight: 400;
+}
+section.Sectors{
+    text-align: center;
+}
+.str_blk a{
+    font-size: 30px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.help_clients .sec_title {
+    text-align: center;
+    margin-bottom: 40px;
+}
+.help_blk{
+    margin-bottom: 30px;
+}
+
+.help_blk h4 {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+section.Consulting_blog.pt-5{
+    padding-top: 0 !important;
+}
+/*Insights page End */
+
+/*article page Start */
+.artical_cover{
+    height: 500px;
+}
+
+.artical_cont p{
+    font-size: 17px;
+    font-weight: 400;
+}
+.atc_author {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+ul.atc_link_list li {
+    font-size: 16px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+ul.atc_btn_link li a {
+    font-size: 16px;
+}
+.artical_cont ul.social_link{
+    margin-bottom: 20px;
+}
+.atc_link{
+    margin-top: 0px;
+    padding-bottom: 30px;
+}
+.r_atc_vlk {
+    margin-bottom: 40px;
+}
+
+.r_atc_vlk h4 {
+    font-size: 22px;
+}
+section.Related_Articles {padding-bottom: 30px;}
+/*articles page End */
+
+
+/*Consulting-Case-Studies page Start */
+.Consulting_Projects{
+    margin: 50px 0 75px;
+}
+.Consulting_Projects .row{
+    flex-direction: column-reverse;
+    margin-bottom: 50px;
+}
+.cp_right {
+    max-width: 400px;
+    margin:  0 auto 30px;
+}
+
+.cp_left {
+    max-width: 420px;
+    margin: auto;
+}
+
+.cp_right i {
+    margin-top: 0;
+}
+
+.cp_left h1 {
+    width: 100%;
+    font-size: 26px !important;
+}
+
+.cp_left h5 {
+    font-size: 16px;
+}
+
+.cp_left p {
+    font-size: 18px;
+    font-weight: 400;
+}
+/*Consulting-Case-Studies page End */
+
+/*Case-Study-Individual page Start */
+.mh_left h1{
+    width: 100%;
+}
+
+section.meets_human .row{
+    flex-direction: column-reverse;
+}
+.mh_right {
+    margin: auto;
+}
+
+
+section.meets_human {
+    margin-bottom: 40px;
+}
+.banking_img {
+    height: 159px;
+}
+
+
+/*Case-Study-Individual page End */
+
+/*Case-Study-Individual page End */
+
+/*career page Start */
+section.career_area .row:first-child{
+    flex-direction: column-reverse;
+}
+
+section.career_area .row {
+    margin-bottom: 45px;
+}
+
+.row.crr_cont_list {
+    margin-top: 0;
+}
+section.career_area .row:nth-child(2) .crr_cont{
+    padding: 0;
+}
+
+.row.crr_cont_list .crr_cont {
+    margin: 0;
+}
+.crr_img {
+    margin-bottom: 20px;
+}
+.row.crr_re {
+    flex-direction: column-reverse;
+}
+
+.cv_apply_img {display: none;}
+
+.cv_apply_content {flex:  0 0 100%;text-align: center;padding: 100px 0;}
+
+.cv_apply_content h2 {font-size: 26px;padding: 0 15px;}
+
+button.cv_btn {font-size: 15px;}
+
+.cv_form {padding: 0;}
+
+.cv_form .Country_select {margin-bottom: 20px;}
+
+.cvModal_title {margin-top: 31px;}
+
+.cvModal_title h1 {font-size: 23px !important;}
+
+.input_blk.textarea {height: 130px;padding-top: 10px;}
+
+.input_blk input,.input_blk textarea {font-size: 14px;}
+
+.Country_select select {font-size: 14px;}
+.input_blk{height: 40px;padding: 0;display: flex;padding: 0 10px;}
+
+.input_blk.file_up label span {font-size: 15px;font-weight: 300;}
+
+.input_blk.file_up label i {font-size: 19px;}
+/*career page End */
+
+/*About page Start */
+.Guiding_area h1{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.Guiding_tabs{
+    width: 100%;
+    max-width: 100%;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column-reverse;
+    overflow: hidden;
+}
+.Guiding_icon {
+    margin-bottom: 50px;
+}
+
+.Guiding_icon ul li button {
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+}
+
+.Guiding_icon ul li button img {
+    width: 100%;
+}
+
+.Guiding_icon {
+    width: 300px;
+    height: 240px;
+}
+
+.Guiding_icon ul li:nth-child(1) button {
+    left: 60px;
+}
+
+.Guiding_icon ul li:nth-child(2) button {
+    right: 60px;
+}
+
+.Guiding_icon ul li:nth-child(6) button {
+    right: 60px;
+}
+
+.Guiding_icon ul li:nth-child(5) button {
+    left: 60px;
+}
+.Guiding_icon ul li:nth-child(3) button{
+    left: 20px;
+}
+.Guiding_icon ul li:nth-child(4) button{
+    right: 25px;
+}
+.abd_img {
+    margin-bottom: 30px;
+}
+.about_btn_wrp ul li a{
+    font-size: 14px;
+}
+.abd_cont h2{
+    font-size: 26px;
+}
+.about_btn_wrp ul{
+    margin-top: 20px;
+}
+.Guiding_cont h2{
+    font-size: 30px;
+}
+/*About page End */
+
+/*Leadership page Start */
+.hl_img i {
+    width: 230px;
+    height: 230px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.hero_Lship_wrp {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.hl_cont {
+    margin: auto;
+    text-align: center;
+}
+
+.hl_cont h1 {
+    font-size: 40px;
+}
+
+.hl_cont h3 {
+    font-size: 20px;
+}
+
+.hl_cont p {
+    font-size: 15px;
+}
+
+.Leadership_about_cont h1 {
+    font-size: 32px;
+}
+
+.Leadership_about_cont p {
+    font-size: 16px;
+}
+
+.Leadership_about_cont h4 {
+    font-size: 20px;
+}
+.Leadership_about_cont_right ul li a{
+    font-size: 18px;
+}
+/*Leadership page End */
+
+/*contact page Start */
+.contact_info .p_list{
+    max-width: 225px;
+}
+
+.p_list p {
+    margin-bottom: 10px !important;
+}
+.contact_info ul li a p{
+    font-size: 18px;
+}
+
+.contact_info ul li a p span {
+    font-size: 14px;
+}
+.contact_form_title h1 {
+    font-size: 40px;
+}
+
+.contact_form_title p {
+    font-size: 17px;
+}
+
+.sgl_contact label {
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+.containers {
+    line-height: 1.3 !important;
+}
+
+.containers {
+    font-size: 14px !important;
+    margin-bottom: 0;
+    line-height: 32px;
+}
+
+.sgl_contact {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.sgl_contact .nice-select {
+    font-size: 15px;
+}
+
+.sgl_contact .nice-select {
+    border-width: 1px;
+}
+
+.nice-select.Industry_select.open .option:first-child:before {
+    background: #091a34;
+}
+.contact_info ul li a i{
+    width: 45px;
+    height: 45px;
+    font-size: 17px;
+}
+.sgl_contact input, .sgl_contact textarea{
+    border-width: 1px;
+    height: 40px;
+    font-size: 15px;
+    padding: 5px 10px;
+}
+
+.sgl_contact textarea {
+    height: 100px !important;
+}
+
+.contact_info {
+    margin-top: 50px;
+}
+
+.contact_info li {
+    margin-bottom: 5px;
+}
+
+.all{
+    display: none;
+}
+/*contact page End */
+
+/*Search page Start */
+.search_box {
+    height: 65px;
+}
+
+.search_box input {
+    font-size: 20px;
+}
+
+.src_list_item h2 {
+    font-size: 22px;
+}
+
+.src_list_item p {
+    font-size: 15px;
+    margin: 10px 0;
+}
+
+.src_list_item span {
+    font-size: 15px;
+}
+
+.src_results h5 {
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+
+.src_list ul li {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+.pagination ul li a{
+    font-size: 16px;
+    padding: 4px;
+}
+section .src_filter_link ul h5{
+    font-size: 18px;
+}
+/*Search page End */
+
+/* Location page Start */
+.loc_collaps button {
+    font-size: 24px;
+    padding: 10px 3px;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+.loc_contant {
+    padding: 0;
+}
+
+.loc_collaps .accordion-body {
+    padding: 10px;
+}
+
+.loc_contant h3 {
+    font-size: 20px;
+}
+
+.loc_contant p {
+    font-size: 15px;
+}
+
+.loc_contant a {
+    font-size: 16px;
+}
+/* Location page End */
+
+/*Terms page Start */
+.Terms_list h1 {
+    font-size: 22px !important;
+}
+
+.Terms_list p {
+    font-size: 16px;
+}
+
+.Terms_list li {
+    margin-bottom: 40px;
+}
+/*Terms page End */
+
+
+
+
+/* Footer   */
+.newsletter h3 {
+    flex: 0 0 100%;
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.newsletter {
+    justify-content: center;
+    text-align: center;
+}
+
+.email_box {
+    margin: auto;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 280px;
+}
+
+.addras {
+    margin: auto;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.addras p span {
+    font-size: 20px;
+}
+
+.addras p {font-size: 15px;}
+.f_logo a {
+    display: block;
+    width: 179px;
+}
+
+.f_logo img {
+    width: 100%;
+    display: block;
+}
+.footer_cont {
+    margin: 0;
+    margin-top: 25px;
+}
+
+.footer_cont p {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.footer_nav ul li {
+    margin-bottom: 15px;
+}
+
+ul.social_link li {
+    margin: 3px 5px;
+}
+ul.f_link {
+    margin: auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+ul.f_link li a {
+    margin: 0 15px;
+    font-size: 18px;
+}
+
+ul.social_link {
+    margin: auto;
+    text-align: center;
+}
+
+ul.social_link li a {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.footer_bottom {
+    justify-content: center;
+    text-align: center;
+}
+
+.footer_bottom ul li {
+    margin-right: 20px;
+}
+
+.footer_bottom ul li a {
+    font-size: 14px;
+}
+
+p.c_right {
+    margin-top: 20px;
+    font-size: 14px;
+}
+/* Footer End  */
+}
+ 
+/* Large Mobile screen :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+.flipster__button--prev {
+    left: 37%;
+}
+
+.flipster__button--next {
+    right: 24%;
+}
+ 
+}
